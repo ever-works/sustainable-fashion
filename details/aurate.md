@@ -1,32 +1,69 @@
 ## Overview
 
-Aurate crafts fine jewelry made with 100 percent recycled gold with a commitment to affordability and no traditional luxury markups. The brand combines ethical sourcing with accessible pricing.
+Aurate is a fine jewelry brand creating beautiful, delicate pieces using 100% recycled gold. The brand makes luxury jewelry more accessible while maintaining high ethical and environmental standards.
 
-## Sustainable Materials
+## Materials
 
-- **Recycled Precious Metals**: 93% of metals are recycled gold and silver
-- **Conflict-Free Diamonds**: Blockchain-verified ethical diamond sourcing
-- **Transparent Supply Chain**: Full visibility into material origins
+- 100% recycled gold (14K and 18K)
+- Recycled precious metals
+- Ethically sourced gemstones
+- Lab-grown diamond options
+- Conflict-free diamonds
 
-## Made-to-Order Model
+## Sustainability Features
 
-Aurate produces jewelry on a made-to-order basis to:
-- Avoid excess inventory
-- Eliminate waste
-- Reduce environmental impact
-- Ensure each piece is crafted with care
+- All gold is recycled
+- No new mining required
+- Reduced environmental impact
+- Ethical sourcing practices
+- Transparent supply chain
+- Carbon-conscious operations
+- Recyclable packaging
 
-## Environmental Commitment
+## Product Range
 
-- Carbon-neutral shipping on all orders
-- Sustainable packaging materials
-- Minimal environmental footprint
-- Ethical sourcing throughout supply chain
+- Necklaces and pendants
+- Rings and bands
+- Earrings and studs
+- Bracelets
+- Anklets
+- Layering pieces
+- Gift sets
 
-## Transparent Pricing
+## Design
 
-Aurate eliminates traditional luxury markups, making fine jewelry more accessible while maintaining high quality and ethical standards.
+- Delicate, feminine aesthetic
+- Minimalist style
+- Everyday luxury
+- Stackable pieces
+- Timeless designs
+- Versatile jewelry
+
+## Business Model
+
+- Direct-to-consumer
+- Transparent pricing
+- Accessible luxury
+- No retail markup
+- Fair pricing structure
+
+## Craftsmanship
+
+- Quality construction
+- Expert jewelers
+- Attention to detail
+- Durable designs
+- Lifetime warranty
+
+## Values
+
+- Sustainability
+- Ethical practices
+- Transparency
+- Accessibility
+- Quality craftsmanship
+- Environmental responsibility
 
 ## Pricing
 
-Affordable fine jewelry pricing, significantly lower than traditional jewelry stores while maintaining quality and ethical sourcing.
+Accessible luxury, typically $50-$800, significantly less than traditional fine jewelry retailers.

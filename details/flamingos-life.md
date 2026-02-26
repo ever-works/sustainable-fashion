@@ -1,24 +1,28 @@
 ## Overview
 
-Flamingos' Life produces ethical sneakers handcrafted in Spain & Portugal using plant innovation and recovered materials. Founded in 2015, Flamingos Life was created with a mission to transform the footwear industry by offering plant-based, biodegradable sneakers.
+Flamingos Life is a Spanish sustainable footwear brand that creates eco-friendly sneakers using innovative plant-based materials. The brand is committed to reducing environmental impact while delivering stylish, comfortable footwear.
 
-## Sustainable Materials
+## Materials
 
-The brand uses innovative plant-based materials to produce high-quality shoes with minimal environmental impact:
+- Corn-based materials for uppers
+- Bamboo fabric for breathability
+- Hemp for durability
+- Organic cotton
+- Sustainably extracted rubber from the Hevea brasiliensis tree
+- Recycled materials where applicable
 
-- **Corn waste**: A plant-based leather alternative
-- **Bamboo**: Used in sneaker lining
-- **Organic cotton**: Grown without harmful chemicals
-- **Natural rubber**: Extracted from the Hevea brasiliensis tree
+## Sustainability Practices
 
-## Production & Ethics
+- Use of plant-based and renewable materials
+- Sustainable rubber extraction methods
+- Eco-friendly manufacturing processes
+- Focus on reducing carbon footprint
+- Vegan and cruelty-free production
 
-All production centres are local, located in Elche (Spain) and are managed by families. Flamingos Life is an all vegan brand out of Spain whose sneakers are ethically made with sustainable materials.
+## Product Range
 
-## Environmental Impact
-
-The company emphasizes radical transparency and has made significant environmental savings compared to conventional sneaker production. They offer 100% vegan sneakers designed with both sustainability and style in mind.
+Sneakers and casual footwear for men and women in various styles and colorways, combining sustainability with contemporary design.
 
 ## Pricing
 
-Mid-range pricing for vegan sneakers made in Europe.
+Mid-range pricing for sustainable footwear, typically between €80-€150 per pair.

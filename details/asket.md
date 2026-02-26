@@ -1,27 +1,55 @@
 ## Overview
 
-ASKET was founded in 2015 in Stockholm, Sweden, offering high-quality, timeless essentials with full transparency. The brand creates a permanent collection designed to last, moving away from seasonal trends.
+ASKET is a Swedish menswear brand that embodies the slow fashion movement. With a focus on transparency, quality, and longevity, ASKET creates essential wardrobe pieces designed to last a lifetime.
 
-## Transparency & Impact Receipts
+## Transparency
 
-ASKET provides detailed "Impact Receipts" revealing the environmental impact of each product. This comprehensive transparency tool shows:
-- Carbon footprint
-- Water usage
-- Material sourcing
-- Production locations
-- Fair pricing breakdown
-
-## Sustainable Practices
-
-- **Low-Impact Materials**: Uses 79% low-impact fibers including GOTS organic cotton and recycled materials
-- **Permanent Collection**: Creates timeless essentials that transcend seasonal trends
-- **Supply Chain Transparency**: Full visibility into every step of production
-- **Quality Focus**: Designs for longevity to reduce consumption
+ASKET is renowned for its complete transparency:
+- Full cost breakdown for every product
+- Detailed supply chain information
+- Factory profiles and locations
+- Environmental impact data
+- Material sourcing information
 
 ## Philosophy
 
-ASKET believes in creating a permanent collection of essentials that don't need to change season to season. The focus is on perfecting a small range of versatile, high-quality garments rather than constantly introducing new styles.
+- Permanent collection with no seasons
+- Minimal styles, maximum quality
+- Anti-trend approach
+- Focus on longevity and durability
+- Free repairs and alterations
+- Circular fashion initiatives
+
+## Materials
+
+- Organic cotton
+- Recycled polyester
+- Merino wool
+- Linen
+- Responsible down
+- Traceable materials
+
+## Product Range
+
+- T-shirts and polos
+- Shirts and oxford shirts
+- Knitwear
+- Denim
+- Trousers and chinos
+- Outerwear
+- Underwear and basics
+
+All available in multiple sizes and lengths for perfect fit.
+
+## Sustainability Practices
+
+- Carbon offset shipping
+- Plastic-free packaging
+- Certified factories
+- Circular design principles
+- Repair and care services
+- Take-back program
 
 ## Pricing
 
-Mid-range to premium pricing with transparent cost breakdown showing materials, labor, transport, and profit margins.
+Mid to premium range with full transparency, typically €40-€200+ depending on item, with detailed cost breakdowns showing material, labor, transport, and markup.

@@ -1,22 +1,60 @@
-## About Talia Collins
+## Overview
 
-Talia Collins is a sustainable luxury swimwear brand established in 2018 that produces timeless, monogrammed swimwear in the most sustainable way possible to help protect our oceans and the planet.
+Talia Collins is a sustainable swimwear brand committed to protecting the oceans by using recycled materials. The brand creates stylish, high-quality swimwear from regenerated ocean waste.
 
 ## ECONYL® Fabric
 
-Their swimwear is crafted using ECONYL®, a revolutionary nylon yarn made from regenerated materials like abandoned fishing nets and discarded plastics. ECONYL® is 100% regenerated nylon yarn made from discarded fishing nets and ocean waste.
+- 100% regenerated nylon fiber
+- Made from abandoned fishing nets
+- Ocean plastic waste
+- Industrial plastic waste
+- Identical quality to virgin nylon
+- Infinitely recyclable
 
-## Sustainability Features
+## Environmental Impact
 
-- **Sun Protection**: UPF 50+ protective swimwear offers style and protection
-- **Certifications**: Fabrics are OEKO-TEX® Standard 100 certified, ensuring safety and sustainability
-- **Ocean Conservation**: 1% of each sale is donated to the Healthy Seas Initiative to support clearing the oceans of abandoned nets and discarded plastics
-- **Lifetime Guarantee**: Products are backed by a lifetime guarantee
+Each swimsuit helps:
+- Remove plastic waste from oceans
+- Reduce demand for virgin nylon production
+- Lower carbon footprint by 80% compared to virgin nylon
+- Support ocean cleanup initiatives
+- Promote circular economy
 
-## Design Philosophy
+## Product Range
 
-The brand focuses on combining luxury design with environmental responsibility, creating durable swimwear that helps address ocean plastic pollution while maintaining timeless, elegant aesthetics.
+- Bikini tops and bottoms
+- One-piece swimsuits
+- Tankinis
+- Cover-ups
+- Swim sets
+
+Available in various styles, cuts, and colors.
+
+## Features
+
+- UPF sun protection
+- Chlorine resistant
+- Quick-drying
+- Fade-resistant colors
+- Durable and long-lasting
+- Comfortable stretch
+- Flattering fits
+
+## Sustainability Practices
+
+- Recycled materials
+- Eco-friendly packaging
+- Carbon-conscious shipping
+- Transparent supply chain
+- Support for ocean conservation
+
+## Design
+
+- Contemporary, fashion-forward styles
+- Versatile pieces
+- Mix-and-match options
+- Classic and trendy designs
 
 ## Pricing
 
-Luxury pricing for sustainable swimwear made in the most ethical way possible.
+Mid-range sustainable swimwear, typically $60-$150 per piece.

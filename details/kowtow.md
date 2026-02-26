@@ -1,30 +1,59 @@
-## About Kowtow
+## Overview
 
-Kowtow was founded in New Zealand by Gosia Piatek in 2006. Their garments are made entirely from 100% certified Fairtrade cotton, traced from seed-to-garment. The Wellington fashion brand offers sustainable and ethical modern womenswear.
+Kowtow is a New Zealand-based fashion brand that has been a pioneer in ethical fashion since 2007. The brand creates elegant, timeless womenswear with an unwavering commitment to sustainability and fair trade practices.
 
-## Sustainability Features
+## Materials
 
-### Materials & Certifications
-- Uses certified organic cotton and is ethical from seed to garment
-- Holds certifications with Fairtrade, Global Organic Textile Standard (GOTS) and B Corp
-- Each style is crafted from certified Fairtrade organic cotton and entirely plastic-free
+- 100% Fair Trade certified organic cotton
+- Non-toxic, low-impact dyes
+- GOTS certified fabrics
+- No synthetic materials
+- Natural fibers only
 
-### Circular Economy Initiatives
-- World-leading project to return Kowtow garments to the earth as carbon-absorbing biochar, which helps to regenerate soil, capture carbon and foster biodiversity
-- Every Kowtow garment comes with the promise of a free repair
-- "Kowtow Relove" resale program for circular fashion
+## Fair Trade Commitment
 
-### Design Philosophy
+Kowtow works exclusively with Fair Trade certified cotton suppliers, ensuring:
+- Fair wages for farmers and workers
+- Safe working conditions
+- No child labor
+- Community development support
+- Environmental protection
+- Transparent supply chain
 
-Kowtow looks to nature for solutions, ensuring each garment has as light a footprint as possible, resulting in innovative solutions such as:
-- Shell, nut, and hemp buttons
-- Natural rubber instead of synthetic elastic
-- Plastic-free construction throughout
+## Design Philosophy
 
-## Brand Name Meaning
+- Timeless, versatile pieces
+- Minimalist aesthetic
+- Quality over quantity
+- Designed to last
+- Seasonless collections
+- Classic silhouettes
 
-The brand's name reflects their ethos - kowtow describes the act of deep respect demonstrated by kneeling and bowing so low that your head is touching the ground. The brand ethos centers around paying this respect to the environment.
+## Product Range
+
+- Dresses and skirts
+- Tops and blouses
+- Knitwear
+- Pants and jeans
+- Outerwear
+- Basics and essentials
+
+## Sustainability Practices
+
+- Organic farming methods
+- Water conservation
+- Reduced carbon footprint
+- Ethical manufacturing in India
+- Minimal packaging
+- Repair and care guides
+
+## Certifications
+
+- Fair Trade certified
+- GOTS (Global Organic Textile Standard)
+- B Corp certified
+- Certified ethical by Good On You
 
 ## Pricing
 
-Mid-range pricing for certified organic and fair trade fashion.
+Mid to premium range, reflecting fair trade and organic practices, typically NZD $100-$400 per item.

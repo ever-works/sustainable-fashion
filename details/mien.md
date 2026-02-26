@@ -1,27 +1,84 @@
 ## Overview
 
-Mien makes clothes for an elevated everyday, using its signature organic cotton fabric. All garments are dyed locally using non-toxic AZO-free dyes, ensuring safe, sustainable fashion for maternity and beyond.
+Mien is a Los Angeles-based sustainable fashion brand creating contemporary, minimalist clothing using organic cotton. All garments are dyed locally using non-toxic, AZO-free dyes, ensuring environmental and human health safety.
 
-## Features
+## Materials
 
-- Signature organic cotton fabric
-- Non-toxic AZO-free dyes
-- Locally dyed garments
-- Elevated everyday wear
-- Maternity-friendly designs
-- Chemical-free dyeing
-- Australian brand
-- Sustainable materials
-- Safe for sensitive skin
+### Organic Cotton
+- GOTS certified
+- No pesticides or chemicals
+- Sustainable farming
+- Soft and breathable
+- Hypoallergenic
 
-## Sustainability Practices
+### Non-Toxic Dyes
+- AZO-free dyes
+- No harmful chemicals
+- Safe for workers and wearers
+- Environmentally responsible
+- Local dyeing facility
+- Reduced toxic waste
 
-Mien uses organic cotton throughout its collections and ensures all dyeing is done locally with non-toxic, AZO-free dyes. This eliminates harmful chemicals while supporting local industry and creating safe clothing for pregnancy and everyday wear.
+## Sustainability Features
+
+- Organic cotton fabric
+- Non-toxic dyeing process
+- Local production in LA
+- Fair labor practices
+- Reduced carbon footprint
+- Ethical manufacturing
+- Transparent supply chain
 
 ## Product Range
 
-Offers everyday clothing and maternity wear made from organic cotton with non-toxic dyes.
+- Dresses and jumpsuits
+- Tops and tees
+- Pants and trousers
+- Skirts
+- Loungewear
+- Maternity-friendly options
+- Versatile basics
+
+## Design Aesthetic
+
+- Contemporary minimalism
+- Clean lines
+- Relaxed, comfortable fits
+- Timeless style
+- Versatile pieces
+- Modern simplicity
+- California casual
+
+## Made in Los Angeles
+
+- Local manufacturing
+- Fair wages
+- Quality craftsmanship
+- Supports local economy
+- Shorter supply chain
+- Community support
+
+## Health Benefits
+
+- AZO-free dyes (no carcinogens)
+- Organic cotton (no pesticide residue)
+- Safe for sensitive skin
+- Non-toxic materials
+- Hypoallergenic
+
+## Environmental Impact
+
+- Organic farming practices
+- Water conservation
+- No toxic chemicals
+- Reduced pollution
+- Local production
+- Lower carbon emissions
+
+## Target Customer
+
+Health-conscious, environmentally aware women seeking clean, minimalist fashion.
 
 ## Pricing
 
-Mid-range pricing for organic cotton with safe, local dyeing.
+Sustainable LA-made fashion, typically $60-$180, reflecting organic materials and non-toxic dyeing.
