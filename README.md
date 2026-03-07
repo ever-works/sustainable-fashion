@@ -1,8 +1,6 @@
 # Sustainable Fashion
 
 Make a collection of sustainable fashion brands
-
-
 ## 📑 Table of Contents
 
 - [Women's Fashion (67)](#womens-fashion)
