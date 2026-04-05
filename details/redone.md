@@ -15,7 +15,7 @@ Re/Done launched with unique concept of reconstructing vintage Levi's into moder
 
 - Modern fits from vintage denim
 - Contemporary styling
-- Retail price $230-$270
+- Retail price $230–$270
 - Each piece is unique
 - Vintage Levi's collection
 

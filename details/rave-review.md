@@ -5,14 +5,14 @@ Rave Review is a Swedish brand that transforms textiles of all kinds—from clot
 ## Features
 
 - Swedish upcycling brand
-- Transforms various textiles
-- Uses clothes, bedding, home goods
-- Fun, elevated designs
+- Transforms various textile waste streams
+- Uses discarded clothes, bedding, and home goods
+- Fun, elevated contemporary designs
 - Pre-existing materials only
-- Creative reconstruction
-- Unique pieces
+- Creative reconstruction approach
+- Unique, one-of-a-kind pieces
 - Zero new textile production
-- Contemporary aesthetic
+- Contemporary fashion aesthetic
 
 ## Sustainability Practices
 

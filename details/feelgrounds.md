@@ -1,33 +1,5 @@
-## Overview
+# Feelgrounds
 
-Feelgrounds is a German barefoot shoe brand that combines sustainable materials with ergonomic design. All shoes are 100% vegan with a focus on natural foot movement and environmental responsibility.
+Feelgrounds is a German brand designing ergonomic barefoot-inspired footwear and accessories crafted primarily from recycled and sustainable materials in European factories with ethical, fair-wage practices. By combining barefoot technology that strengthens natural foot movement with recycled uppers and responsibly sourced rubber soles, the brand proves comfort and sustainability can coexist without geographic exploitation. Where mainstream footwear brands manufacture toxic, narrow shoes in opaque overseas factories, Feelgrounds delivers foot-health-forward sustainable shoes made verifiably close to home.
 
-## Sustainable Materials
-
-- **Recycled Plastic Bottles**: Mesh and Knit models made from recycled PET bottles
-- **Vegan Materials**: 100% animal-free construction
-- **Eco-Friendly Production**: Minimizes environmental impact throughout manufacturing
-
-## Ethical Labor
-
-Workers in Vietnam receive:
-- Above-average wages
-- Full social benefits
-- Safe working conditions
-- Fair treatment and respect
-
-## Barefoot Design Philosophy
-
-Feelgrounds shoes are designed to promote natural foot movement with:
-- Wide toe boxes
-- Zero-drop soles
-- Flexible construction
-- Lightweight design
-
-## Product Range
-
-Offers various styles including casual sneakers, athletic shoes, and everyday footwear, all designed with barefoot principles.
-
-## Pricing
-
-Mid-range pricing for sustainable barefoot footwear.
+[https://feelgrounds.com](https://feelgrounds.com)

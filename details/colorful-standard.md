@@ -1,27 +1,5 @@
-## Overview
+# Colorful Standard
 
-Colorful Standard is a Danish brand creating organic fashion essentials for men and women. The brand focuses on quality basics in a rainbow of vibrant colors, all made from GOTS certified organic cotton.
+Colorful Standard is a Danish brand creating organic fashion essentials for men and women exclusively from GOTS-certified organic cotton in a vibrant rainbow palette of timeless basics. By using certified organic fibers and ethical production practices, the brand ensures that everyday wardrobe staples meet the highest environmental and social standards. Where fast fashion brands flood the market with cheap, pesticide-laden basics that fall apart after a few washes, Colorful Standard delivers lasting, colorfast GOTS-certified essentials designed to endure.
 
-## Features
-
-- GOTS certified organic cotton
-- Danish brand
-- Men's and women's essentials
-- Vibrant color palette
-- Quality basics
-- Ethical production
-- Timeless designs
-- Sustainable materials
-- Long-lasting construction
-
-## Sustainability Practices
-
-Colorful Standard uses exclusively GOTS certified organic cotton, ensuring the highest environmental and social standards throughout production. The brand creates timeless basics in quality materials designed to last for years.
-
-## Product Range
-
-Offers t-shirts, sweatshirts, hoodies, knitwear, and basics for men and women in a wide range of colors.
-
-## Pricing
-
-Mid-range pricing for GOTS certified organic essentials.
+[https://colorfulstandard.com](https://colorfulstandard.com)

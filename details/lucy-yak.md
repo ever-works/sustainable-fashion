@@ -1,27 +1,20 @@
 ## Overview
 
-Founded in 2017, Lucy & Yak has become famous for its sustainably stylish dungarees. The ethical brand uses eco-friendly materials and creates vibrant, playful designs that have built a devoted following.
-
-## Features
-
-- Founded in 2017
-- Famous for dungarees
-- GOTS certified cotton
-- Recycled polyester
-- Eco-friendly materials throughout
-- Vibrant colors and patterns
-- Inclusive sizing
-- Playful, fun designs
-- Ethical production
+Lucy & Yak offers a range of colourful garments in organic cotton. The company pays the living wage in the UK and works with a factory in Northern India, providing detailed public reporting on what fair pay means in practice.
 
 ## Sustainability Practices
 
-Lucy & Yak uses Global Organic Textile Standard (GOTS) certified cotton and recycled polyester throughout its collections. The brand maintains ethical production practices while creating distinctive, colorful clothing that stands out from conventional sustainable fashion.
+- Organic cotton garments
+- Pays the living wage in the UK
+- Works with a factory in Northern India that pays employees fairly
+- Detailed public reporting on fair compensation practices
+- Uses 100% biodegradable mailer bags
+- Recycled card packaging
 
-## Product Range
+## Sizing
 
-Offers dungarees, boiler suits, dresses, tops, bottoms, outerwear, and accessories in bold colors and unique patterns.
+- 6 – 32, inclusive sizing across all styles
 
 ## Pricing
 
-Mid-range pricing for GOTS certified sustainable fashion.
+Mid-range pricing with focus on fair labour practices.

@@ -1,36 +1,5 @@
-## Overview
+# Corkor
 
-Corkor creates eco-friendly bags and accessories from cork, one of the most sustainable materials available.
+Corkor is a vegan accessories brand crafting luxury handbags, wallets, and belts from sustainably harvested cork oak bark — a naturally renewable material that regenerates after each harvest without harming the tree. By using cork instead of leather or synthetic alternatives, the brand preserves ancient Mediterranean cork oak forests while delivering water-resistant, durable accessories with no animal products. Where conventional leather bags drive deforestation and synthetic alternatives shed microplastics, Corkor proves that bark-harvested cork provides a genuinely renewable, cruelty-free luxury material.
 
-## Sustainability Features
-
-- FSC® certified sustainably harvested cork
-- 100% vegan materials
-- PETA-approved
-- Made locally in Portugal
-- Plastic-free products
-- Renewable material
-- Trees not cut down for harvesting
-
-## Cork Advantages
-
-- Quick growth and regeneration
-- Harvested without cutting trees
-- Trees need minimal water and fertilizer
-- Naturally durable and water-resistant
-- Biodegradable material
-- Carbon sequestration during growth
-
-## Materials
-
-- 100% sustainably harvested cork
-- FSC® certified
-- Natural, renewable materials
-
-## Product Range
-
-Bags, wallets, belts, and accessories made entirely from cork with various natural patterns and textures.
-
-## Made in Portugal
-
-Local production in Portugal, home of sustainable cork harvesting, ensuring quality and supporting traditional industry.
+[https://corkor.com](https://corkor.com)

@@ -4,7 +4,7 @@ Wellicious creates circular, sustainable yoga and activewear from GOTS certified
 
 ## Certifications
 
-- Cradle to Cradle Certified® Gold
+- Cradle to Cradle Certified Gold
 - GOTS certified organic cotton
 - Free from harmful toxins and chemicals
 - Shortlisted for Future Icons Awards 2026
@@ -21,7 +21,7 @@ Wellicious creates circular, sustainable yoga and activewear from GOTS certified
 ## Materials
 
 - GOTS certified organic cotton
-- Compostable Roica® elastane
+- Compostable Roica elastane
 - Biodegradable fabrics
 - Non-toxic materials
 

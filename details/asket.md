@@ -40,16 +40,3 @@ ASKET is renowned for its complete transparency:
 - Underwear and basics
 
 All available in multiple sizes and lengths for perfect fit.
-
-## Sustainability Practices
-
-- Carbon offset shipping
-- Plastic-free packaging
-- Certified factories
-- Circular design principles
-- Repair and care services
-- Take-back program
-
-## Pricing
-
-Mid to premium range with full transparency, typically €40-€200+ depending on item, with detailed cost breakdowns showing material, labor, transport, and markup.

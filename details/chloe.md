@@ -1,28 +1,5 @@
-## Overview
+# Chloé
 
-Chloé is a luxury fashion brand combining Parisian elegance with strong sustainability commitments and transparency.
+Chloé is a Parisian luxury fashion house and the first major luxury brand to become B Corp certified, with its B Impact Score rising from 85.2 to 97.3 demonstrating continuous improvement in social and environmental performance. Embedded Digital IDs with QR codes and microchips provide complete manufacturing traceability, care instructions, and repair guidance to extend product lifespans. Where luxury fashion traditionally guards its supply chain behind secrecy, Chloé's pioneering transparency and repair-focused approach prove that haute couture can lead the industry toward circular, accountable production.
 
-## Sustainability Features
-
-- B Corp certified since 2021
-- Improved B Impact Score from 85.2 to 97.3
-- Digital IDs in products since 2023
-- QR codes and microchips provide manufacturing information
-- Care and repair instructions included
-- Commitment to transparency and traceability
-
-## Digital ID Innovation
-
-- QR codes or microchips in products
-- Complete manufacturing process information
-- Care instructions for longevity
-- Repair guidance to extend product life
-- Expanding Digital ID program further
-
-## Product Range
-
-Luxury women's ready-to-wear, handbags, shoes, and accessories with signature feminine aesthetic.
-
-## B Corp Excellence
-
-Significant improvement in B Impact Score demonstrates ongoing commitment to social and environmental performance.
+[https://www.chloe.com](https://www.chloe.com)

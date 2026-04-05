@@ -1,27 +1,5 @@
-## Overview
+# Cottonique
 
-Cottonique is one of the only brands making completely synthetic-free socks and apparel. The brand specializes in 100% cotton allergy-free clothing for people with sensitive skin and chemical sensitivities.
+Cottonique is the only apparel brand making completely synthetic-free, 100% organic cotton clothing designed specifically for people with allergies and chemical sensitivities. By eliminating all synthetic materials, dyes, and chemical treatments, the brand delivers safe, breathable essentials for the most sensitive skin. Where mainstream brands flood the market with polyester blends and chemical-laden dyes that trigger allergic reactions, Cottonique proves that truly natural cotton clothing can provide safe, comfortable basics for allergy-prone consumers.
 
-## Features
-
-- 100% cotton products
-- Completely synthetic-free
-- Allergy-free apparel
-- No synthetic materials
-- Sensitive skin friendly
-- Chemical sensitivity safe
-- Natural fibers only
-- Health-conscious clothing
-- Hypoallergenic materials
-
-## Sustainability Practices
-
-Cottonique eliminates all synthetic materials, using only 100% cotton to create products safe for people with allergies and chemical sensitivities. This commitment to natural fibers benefits both personal health and environmental sustainability.
-
-## Product Range
-
-Offers 100% cotton socks, underwear, t-shirts, and basics completely free from synthetic materials.
-
-## Pricing
-
-Mid-range pricing for specialty allergy-free 100% cotton products.
+[https://cottonique.com](https://cottonique.com)

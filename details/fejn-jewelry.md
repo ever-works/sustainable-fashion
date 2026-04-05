@@ -1,28 +1,49 @@
 ## Overview
 
-fejn jewelry is a Cologne-based brand creating minimalist, sustainable jewelry from recycled precious metals and lab-grown diamonds. The brand is committed to environmental responsibility throughout its operations.
+Fejn is a Danish fine jewelry brand crafting timeless designs from recycled and ethically sourced gold, designed to last a lifetime.
 
-## Sustainable Materials
+## Materials
 
-- **Recycled Precious Metals**: 925 recycled silver and recycled gold
-- **Lab-Grown Diamonds**: Conflict-free, environmentally friendly diamonds
-- **Ethical Sourcing**: All materials sourced responsibly
+- Solid 14-carat recycled gold
+- Ethical gold sourcing
+- Responsibly sourced gemstones
 
-## Certifications
+## Production
 
-- **RJC Certified**: Responsible Jewellery Council certified
-- **Ethical Standards**: Meets highest industry standards for responsible jewelry production
+- Handcrafted by partner jewelers
+- Made-to-order for 75% of products
+- No overproduction due to made-to-order model
 
-## Environmental Practices
+## Sustainability
 
-- **Plastic-Free Packaging**: All packaging free from single-use plastics
-- **Climate-Friendly Shipping**: Offset carbon emissions from shipping
-- **Minimal Waste**: Efficient production minimizes material waste
+- Solid gold that won't tarnish or fade
+- 100-year warranty on all jewelry
+- Recycled and ethical materials
+- Made-to-order reduces waste
 
-## Design Philosophy
+## Product Range
 
-fejn specializes in minimalist, contemporary jewelry that complements modern lifestyles. The pieces are designed for everyday wear and timeless style.
+- Earrings
+- Necklaces
+- Rings
+- Bracelets
+
+## Sizing
+
+- All sizes adjustable
 
 ## Pricing
 
-Mid-range pricing for sustainable fine jewelry made in Germany.
+Mid-to-premium pricing for Danish recycled gold jewelry.
+
+## Design Aesthetic
+
+Minimalist, timeless Scandinavian designs meant to be worn daily and passed down through generations.
+
+## Values
+
+- Quality over quantity
+- Longevity and durability
+- Ethical sourcing
+- Sustainable production
+- Transparency

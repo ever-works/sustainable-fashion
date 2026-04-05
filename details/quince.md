@@ -1,28 +1,22 @@
 ## Overview
 
-Quince makes high-quality, sustainable clothing accessible by cutting out middlemen and offering luxury materials at affordable prices.
+Quince is known for affordable premium products across multiple categories, including fine jewelry made with real precious metals. The brand keeps costs low by cutting out middlemen while maintaining ethical sourcing standards through partnerships with Responsible Jewelry Council (RJC) members.
 
-## Sustainability Features
+## Sustainability & Ethics
 
-- Sees sustainability as the standard, not a luxury
-- Virgin plastic-free packaging
-- Affordable, high-quality sustainable clothing
-- Ethical manufacturing practices
-- Accessible price points for luxury materials
-- Transparent supply chain
-
-## Materials
-
-- Mulberry silk
-- Cashmere
-- Organic cotton
-- Merino wool
-- Sustainable fabrics
+- Metals and stones ethically sourced from Responsible Jewelry Council (RJC) members
+- Recycled gold used in jewelry pieces
+- Transparent sourcing details provided for each metal and stone
+- Some pieces made in the USA
+- Transparent pricing comparisons with other brands
 
 ## Product Range
 
-Wide range including basics, activewear, luxurious essentials, silk tops, cashmere cardigans, heavyweight hoodies, and multipacks for men and women.
+- Earrings, necklaces, rings, bracelets
+- Diamond jewelry including lab-grown diamond studs
+- Everyday and special occasion pieces
 
-## Pricing Philosophy
+## Pricing
 
-Makes luxury sustainable materials accessible through direct-to-consumer model, eliminating traditional retail markups.
+- $30 (U-hoops) – $2,000 (lab-grown diamond studs)
+- Competitively priced with transparent cost breakdowns

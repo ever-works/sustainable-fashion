@@ -1,27 +1,5 @@
-## Overview
+# Everlane
 
-Everlane is committed to radical transparency, revealing the true costs behind their products and the factories where they're made.
+Everlane is a San Francisco brand pioneering radical transparency by revealing the true costs — materials, labor, transportation, and markup — behind every product it sells. The company partners with ethical factories around the world and invests in lower-impact alternatives for its best-selling materials, while offering a ReNew collection made from recycled plastic bottles and a ReNew program for denim. Where mainstream brands hide behind anonymous supply chains, Everlane's cost-breakdown transparency and factory disclosure model gives shoppers unprecedented visibility into what they're actually paying for.
 
-## Sustainability Features
-
-- Radical transparency about manufacturing and pricing
-- Ethical factory partnerships with fair labor practices
-- Transparent about markup and production costs
-- Uses lower-impact materials
-- Commitment to sustainable manufacturing
-- Diverse selection emphasizing transparency and sustainability
-
-## Materials
-
-- Fine, sustainable fabrics
-- Organic materials
-- Recycled materials
-- Lower-impact textiles
-
-## Product Range
-
-Denim, business-casual attire, basics, shoes, and accessories for men and women. Known for high-quality essentials and contemporary staples.
-
-## Transparency Model
-
-Everlane reveals the cost breakdown of each product, showing materials, labor, transportation, and markup, allowing customers to understand exactly what they're paying for.
+[https://www.everlane.com](https://www.everlane.com)

@@ -1,28 +1,5 @@
-## Overview
+# ÉTICA Denim
 
-ÉTICA Denim is a family-owned brand setting new standards for sustainable and ethical denim production.
+ÉTICA Denim is an ethical family-owned denim brand in Los Angeles that slashes water usage by 90%, energy by 63%, and chemicals by 70% compared to traditional denim production. By exceeding fair trade standards with living wages, health benefits, free meals, and an on-staff doctor, the brand treats its workers as extended family — not disposable labor. Where mainstream denim production floods rivers with toxic dye runoff while relying on minimum-wage factories, ÉTICA proves family-owned responsibility can deliver premium sustainable denim alongside genuine worker wellbeing.
 
-## Sustainability Features
-
-- Reduces water usage by 90% compared to traditional denim
-- Reduces energy consumption by 63%
-- Reduces chemical usage by 70%
-- Advanced water filtration and recycling systems
-- Low-impact production methods
-
-## Ethical Practices
-
-- Exceeds fair trade standards
-- Provides living wages to workers
-- Offers health benefits to employees
-- On-staff doctors
-- Free meals for workers
-- Safe working conditions
-
-## Product Range
-
-Premium sustainable denim jeans for women in various fits and washes.
-
-## Family Values
-
-As a family-owned business, ÉTICA prioritizes long-term sustainability over short-term profits, treating workers as extended family.
+[https://eticadenim.com](https://eticadenim.com)

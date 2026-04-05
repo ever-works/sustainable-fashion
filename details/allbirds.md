@@ -1,29 +1,60 @@
 ## Overview
 
-Allbirds is a certified B Corp footwear and apparel brand known for innovation in sustainable materials and carbon-negative products.
+Founded in 2014 by NFL player Tim Brown and biotechnology engineer Joey Zwillinger, Allbirds combines performance materials science with sustainable design. The brand creates footwear and apparel from renewable natural materials.
 
 ## Sustainability Features
 
-- Certified B Corporation
-- Carbon-negative SweetFoam material
-- Wool sourced from ethical farms
-- Tree materials from FSC-certified groves
-- Uses some of the most sustainable fabrics in the world
-- Transparent about environmental impact
+- ZQ-certified merino wool from regenerative farming
+- FSC-certified eucalyptus tree fiber
+- SweetFoam soles made with sugarcane-derived material
+- Carbon footprint labeling on all products
+- Carbon neutral operations
+- Open-sourced carbon footprinting methodology
 
 ## Materials
 
-- Merino wool from ethical farms
-- Tree fiber from FSC-certified forests
-- SweetFoam (world's first green, carbon-negative EVA)
-- Organic cotton
-- Tencel
-- Recycled nylon
+### ZQ Merino Wool
+- Certified by ZQ standard for animal welfare and farm practices
+- Soft, temperature-regulating, and odor-resistant
 
-## Product Range
+### Eucalyptus Tree Fiber
+- FSC-certified
+- Cool, lightweight, and breathable
+- Requires minimal water and closed-loop processing
 
-Footwear including sneakers, slip-ons, and running shoes, plus apparel including activewear and basics.
+### SweetFoam
+- Sugarcane-derived EVA foam
+- First shoe with carbon-negative green sole
 
-## Innovation
+### TrinoXO
+- Blend of ZQ merino wool and recycled coffee grounds
+- Moisture-wicking, odor-reducing properties
 
-Allbirds continuously innovates with sustainable materials, pioneering carbon-negative foams and plant-based textiles that don't compromise on comfort or performance.
+### P.U.R.E. Technology
+- Plastic-free upper made with recycled materials
+- Reduces environmental footprint of the shoe body
+
+## Certifications
+- B Corp certified
+- Climate Neutral certified
+- ZQ certified wool
+- FSC certified materials
+
+## Products
+- Wool Runner sneakers
+- Tree Dashers running shoes
+- Tree Flyer performance runners
+- Everyday loungewear and apparel
+- Accessories and socks
+- Seasonal variations and colorways
+
+## Business Model
+- Direct-to-consumer
+- Carbon footprint transparency
+- Open-source sustainability data sharing
+- $180+ million in revenue as of recent years
+- Going public (IPO)
+
+## Pricing
+
+$$ - Premium pricing: typically $95-$145 for shoes, $50-$100 for apparel.

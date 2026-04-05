@@ -1,34 +1,5 @@
-## Overview
+# Christy Dawn
 
-Founded by Christy Dawn Peterson in 2013, this LA-based brand creates vintage-inspired feminine designs from sustainable materials.
+Christy Dawn is a Los Angeles regenerative fashion brand creating vintage-inspired, feminine limited-edition garments from deadstock fabrics and farm-to-closet regenerative organic cotton. By paying living wages from farmer to artisan and investing in regenerative agriculture, the brand goes beyond sustainability to actively heal soil and farming communities. Where fast fashion extracts value from every node of its supply chain, Christy Dawn's reciprocal model ensures everyone from cotton farmer to LA seamstress thrives — proving fashion can be a force for ecological and community regeneration.
 
-## Sustainability Features
-
-- Farm-to-closet regenerative organic cotton
-- Uses deadstock fabrics
-- Very limited quantity production
-- Ethically manufactured in Los Angeles
-- Living wages for farmers and artisans
-- Farmers gain financial independence
-- Regeneration-focused business model
-
-## Materials
-
-- Regenerative organic cotton
-- Deadstock fabrics
-- Sustainable materials
-
-## Product Range
-
-Vintage-inspired, feminine dresses and clothing known for romantic, timeless designs.
-
-## Impact Model
-
-- Everyone from farm-to-closet makes living wage
-- Farmers gain financial independence
-- Artisans have steady work
-- Community healing focus
-
-## Philosophy
-
-Committed to regeneration by creating reciprocal relationships that heal community, Mother Earth, and ourselves.
+[https://christydawn.com](https://christydawn.com)

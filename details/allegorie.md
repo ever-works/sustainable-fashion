@@ -1,33 +1,19 @@
 ## Overview
 
-Allégorie is a women-owned brand creating sustainable accessories in NYC with fair wages and innovative plant-based materials.
+Allegorie is a women-owned NYC brand making goods with fair wages and full benefits. Uses USDA-certified apple, mango, and cactus leather with OEKO-TEX certification for chemical-free products.
 
 ## Sustainability Features
 
-- USDA-certified apple leather
-- USDA-certified mango leather
-- USDA-certified cactus leather
-- OEKO-TEX certified (chemical-free)
-- Made in NYC Queens
-- Fair wages and full benefits
-- Women-owned business
-
-## Materials
-
-- Apple leather
-- Mango leather
-- Cactus leather
-- Plant-based leather alternatives
-- Chemical-free materials
+- USDA-certified apple, mango, and cactus leather
+- OEKO-TEX certified chemical-free products
+- Fair wages and full benefits for workers
+- Zero-waste manufacturing
+- Plant-based materials
 
 ## Product Range
 
-Wallets, tote bags, backpacks, and accessories made from innovative plant-based leathers.
+Offers fashion accessories made from innovative plant-based leather alternatives.
 
-## Labor Practices
+## Pricing
 
-Made in Queens, NYC with fair wages and full compensation with benefits for all workers.
-
-## Innovation
-
-Pioneers in plant-based leather alternatives, using fruit and cactus-derived materials for sustainable luxury.
+Mid-range pricing for innovative plant-based fashion accessories.

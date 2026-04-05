@@ -1,33 +1,5 @@
-## Overview
+# Do Good Swimwear
 
-Do Good Swimwear is a women's surf collective creating eco-friendly swimwear from ECONYL® regenerated nylon. Designed by surfers for active ocean lovers, the brand combines performance with environmental responsibility.
+Do Good Swimwear is a women's surf collective crafting eco-friendly swimwear exclusively from ECONYL® regenerated nylon sourced from recovered ocean fishing nets and plastic waste. Designed by surfers for active ocean lovers, every suit removes marine debris while delivering performance-grade construction for real water sports. Where conventional swimwear brands produce billions of new synthetic garments from virgin petroleum each year, Do Good Swimwear turns ocean pollution into functional fashion that actively cleans the seas it celebrates.
 
-## ECONYL® Fabric
-
-- **Regenerated Nylon**: Made from recovered ocean waste
-- **Fishing Nets**: Transforms abandoned nets into swimwear
-- **Plastic Waste**: Repurposes ocean plastics
-- **Fully Regenerated**: 100% recycled nylon content
-
-## Surf-Inspired Design
-
-- **Active Performance**: Designed for surfing and water sports
-- **Stay-Put Fit**: Secure construction for active movement
-- **Durable Construction**: Withstands ocean conditions
-- **Functional Style**: Beautiful and practical
-
-## Ocean Conservation
-
-As surfers and ocean lovers, Do Good Swimwear is committed to protecting marine environments by:
-- Removing waste from oceans
-- Reducing demand for virgin materials
-- Raising awareness about ocean plastic pollution
-- Supporting sustainable surf culture
-
-## Women's Collective
-
-Designed by women surfers who understand the needs of active water sports enthusiasts, creating swimwear that performs as well as it looks.
-
-## Pricing
-
-Mid-range pricing for sustainable surf-inspired swimwear.
+[https://dogoodswimwear.com](https://dogoodswimwear.com)

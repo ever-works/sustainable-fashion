@@ -1,28 +1,5 @@
-## Overview
+# Eileen Fisher
 
-Eileen Fisher is a women's clothing brand committed to timeless design, sustainable practices, and circular fashion principles.
+Eileen Fisher is a pioneering sustainable fashion brand renowned for its Renew take-back program that has processed over 2.3 million garments through cleaning, repair, resale, and fiber-to-fiber recycling over 15 years. The brand's commitment to circular fashion, organic materials, and timeless minimalist design addresses the root cause of fashion waste — disposable consumption itself. Where mainstream brands design for obsolescence and push seasonal replacement, Eileen Fisher's circular system proves that investing in enduring, responsibly made garments creates lasting value for both wardrobes and the planet.
 
-## Sustainability Features
-
-- Renew program allows customers to return used garments
-- Returned items are cleaned, repaired, and resold
-- Focus on circular fashion and extending garment life
-- Uses sustainable and organic materials
-- One of the most sustainable luxury clothing brands
-- Strives for circularity in production and consumption
-
-## Materials
-
-- Organic cotton
-- Organic linen
-- Recycled materials
-- Low-impact materials
-- Sustainable fibers
-
-## Product Range
-
-Women's clothing with minimalist, timeless designs including dresses, tops, pants, and outerwear.
-
-## Circular Fashion Model
-
-The Renew program exemplifies the brand's commitment to reducing waste by giving garments multiple lives through resale and upcycling.
+[https://www.eileenfisher.com](https://www.eileenfisher.com)

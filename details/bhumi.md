@@ -1,27 +1,22 @@
 ## Overview
 
-Bhumi is an Australian brand that uses 100% Fairtrade, organic, and vegan materials for its basics and bedding. The brand creates comfortable, eco-friendly essentials with ethical production practices.
+Bhumi is an Australian brand and Certified B Corp that uses 100% Fairtrade, organic, and vegan materials for its basics, clothing, and bedding.
 
-## Features
+## Certifications
 
-- 100% Fairtrade materials
-- 100% organic fabrics
-- 100% vegan products
-- Australian brand
-- Comfortable basics
-- Sustainable bedding
-- Ethical production
-- Eco-friendly essentials
-- Chemical-free materials
+- Certified B Corporation
+- Fairtrade certified
+- GOTS certified organic materials
+- Vegan products
 
-## Sustainability Practices
+## Sustainability Features
 
-Bhumi maintains strict standards by using exclusively Fairtrade, organic, and vegan materials. This comprehensive approach ensures environmental responsibility, animal welfare, and fair treatment of workers throughout the supply chain.
+- 100% Fairtrade, organic, and vegan materials
+- Plastic-free and home-compostable packaging
+- Chemical-free production
+- Ethical supply chain
+- Animal-free products
 
 ## Product Range
 
-Offers organic basics, clothing essentials, and bedding made from Fairtrade organic materials.
-
-## Pricing
-
-Mid-range pricing for Australian Fairtrade organic products.
+Organic basics, clothing essentials, and bedding made from Fairtrade organic cotton and other sustainable materials.

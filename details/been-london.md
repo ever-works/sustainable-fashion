@@ -17,7 +17,6 @@ BEEN London is a pioneering sustainable accessories brand that transforms waste 
 
 ### Recycled Plastics
 - Single-use plastic waste
-- Ocean plastics
 - Post-consumer plastic
 
 ### Leather Off-Cuts
@@ -32,7 +31,6 @@ BEEN London is a pioneering sustainable accessories brand that transforms waste 
 - Crossbody bags
 - Wallets and cardholders
 - Phone cases
-- Keychains
 - Travel accessories
 
 ## Sustainability Features
@@ -42,30 +40,4 @@ BEEN London is a pioneering sustainable accessories brand that transforms waste 
 - Circular economy principles
 - Reduced virgin material use
 - Lower carbon footprint
-- Ethical production
-- B Corp certified
-
-## Design
-
-- Contemporary, minimalist style
-- Timeless aesthetic
-- Functional designs
-- Versatile pieces
-- Modern classics
-- Gender-neutral options
-
-## Impact
-
-By using waste materials, BEEN London diverts thousands of kilograms of waste from landfills annually while creating stylish, durable accessories.
-
-## Values
-
-- Circular fashion
-- Waste reduction
-- Innovation in materials
-- Transparency
-- Quality craftsmanship
-
-## Pricing
-
-Mid-range sustainable accessories, typically £30-£150 depending on item.
+- Ethical production in Europe

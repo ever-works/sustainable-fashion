@@ -1,27 +1,5 @@
-## Overview
+# Di)vision
 
-Di)vision is a Danish brand that exclusively uses deadstock and pre-existing materials to create workwear-inspired, unisex collections. The brand eliminates waste by transforming surplus fabrics into contemporary fashion.
+Di)vision is a Danish unisex brand exclusively using deadstock and pre-existing fabrics to create workwear-inspired collections, ensuring zero new textile production while delivering cutting-edge contemporary design. By intercepting surplus materials destined for landfill, each garment diverts waste from the fashion industry's staggering disposal cycle. Where mainstream brands manufacture millions of identical pieces from virgin fabrics each season, Di)vision's zero-new-material approach proves that limited-run upcycled fashion can rival any catheaed runway collection.
 
-## Features
-
-- Uses only deadstock materials
-- Pre-existing fabrics exclusively
-- Workwear-inspired designs
-- Unisex collections
-- Danish brand
-- Zero new fabric production
-- Waste elimination focus
-- Contemporary aesthetic
-- Sustainable upcycling
-
-## Sustainability Practices
-
-Di)vision's commitment to using only deadstock and pre-existing materials means the brand produces zero textile waste and requires no new fabric production. This approach maximizes the value of surplus materials while creating unique, workwear-inspired pieces.
-
-## Product Range
-
-Offers unisex workwear-inspired clothing made entirely from deadstock fabrics, creating unique pieces with limited availability.
-
-## Pricing
-
-Mid to premium pricing for deadstock-based sustainable fashion.
+[https://divisionclothing.com](https://divisionclothing.com)

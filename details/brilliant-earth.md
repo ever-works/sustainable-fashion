@@ -14,7 +14,7 @@ Brilliant Earth pioneered ethical jewelry, specializing in engagement rings and 
 ## Innovation
 
 - Origin collection features diamonds traceable to specific mines
-- Mines in Botswana, Canada, and Russia with full transparency
+- Mines in Botswana, Canada, and beyond with full transparency
 - Blockchain platform tracks diamond journey
 - From origin to finished piece visibility
 

@@ -5,7 +5,7 @@ Parade creates size-inclusive, comfortable underwear from sustainable materials 
 ## Sustainability Features
 
 - Core fabric Re:Play from 85% recycled polyamide
-- Oeko-Tex certified materials
+- OEKO-TEX certified materials
 - Compostable packaging from 100% corn starch
 - Sustainable materials focus
 - Size-inclusive range
@@ -15,7 +15,7 @@ Parade creates size-inclusive, comfortable underwear from sustainable materials 
 
 - Re:Play fabric (85% recycled polyamide)
 - Tencel™
-- Oeko-Tex certified fabrics
+- OEKO-TEX certified fabrics
 - Recycled materials
 
 ## Product Range

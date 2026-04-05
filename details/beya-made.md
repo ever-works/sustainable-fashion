@@ -16,12 +16,4 @@ Beya Made takes an innovative approach to sustainable children's clothing by cre
 
 ## Sustainability Practices
 
-Beya Made's innovative sizing system allows each garment to fit children for significantly longer periods than conventional clothing, reducing the need for frequent replacements. This approach cuts the brand's carbon and water footprint by 60% compared to traditional children's clothing, while providing exceptional value to families.
-
-## Product Range
-
-Offers essential children's clothing designed with innovative sizing that accommodates growth, including tops, bottoms, dresses, and outerwear.
-
-## Pricing
-
-Mid-range pricing that offers excellent value due to extended wear period.
+Beya Made's innovative sizing system allows each garment to fit children for significantly longer periods than conventional clothing, reducing the need for frequent replacements. This approach cuts the brand's carbon and water footprint by 60% compared to traditional children's clothing.

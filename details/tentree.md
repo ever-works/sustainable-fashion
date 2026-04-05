@@ -9,7 +9,8 @@ tentree is a sustainable lifestyle apparel brand with a mission to plant trees a
 - Uses sustainable fabrics and blends
 - Part of 1% for the Planet
 - Transparent about environmental impact
-- Over 100 million trees planted to date
+- Over 150 million trees planted to date
+- Customer tree tracking system
 
 ## Materials
 
